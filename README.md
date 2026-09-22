@@ -16,3 +16,18 @@
                               Repositories   └─ Google Sheets (later)
                                   │
                               Models
+
+
+# Future evolvement
+
+WhatsApp
+    ↓
+FastAPI
+    ↓
+Chatbot Engine
+    ↓
+Service Layer
+    ↓
+Repository Layer
+    ↓
+Google Sheets
